@@ -1,5 +1,5 @@
-# term_subscription_project
-The prediction of a bank term subscription for target marketing.
+# The prediction of a bank term subscription for target marketing.. Summary:
+
 
 
 This is just the summary of the project, please view the full report 'Term Deposit Prediction Report.docx' for more detail. 
