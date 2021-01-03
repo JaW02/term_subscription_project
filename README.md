@@ -3,9 +3,11 @@ The prediction of a bank term subscription for target marketing.
 
 This is just the summary of the project, please view full report for more detail.
 
-Introduction:
+Abstract:
 
 A term deposit is a fixed-term investment that includes the deposit of money into an account at a financial institution. Term deposit investments usually carry short-term maturities ranging from one month to a few years and will have varying levels of required minimum deposits. A customer will deposit or invest in one of these accounts, agreeing not to withdraw their funds for a fixed period in return for a higher rate of interest paid on the account. If a customer places money in a term deposit, the bank can invest the money in other financial products that pay a higher rate of return (RoR) than what the bank is paying the customer for the use of their funds. The bank can also lend the money out to its other clients, thereby receiving a higher interest rate from the borrowers as compared to what the bank is paying in interest for the term deposit. Net interest income is the amount of money earnt from the offset of the interest from clients borrowing the term deposit money and the interest given to clients for subscribing to a term deposit.
+
+Introduction:
 
 Target marketing is vital for many businesses that offer products to their customers, to be able to classify whether a customer will or will not respond to an offer has major advantages when it comes to profitability and expenditures. We will use the F-beta metric (weighted harmonic mean of precision and recall) with a weighting of 
 1.5 which is weighted more towards recall (reducing false negatives) but with some weighting towards precision (reducing false positives) aswell. Having F-beta weighted this way allows us to gain more in profit by not missing potential subscribers but with a slight trade off in gaining some extra costs, since our profit margin is quite big this allows our model to extract more profit than if we weighted F-beta more towards reducing costs.
