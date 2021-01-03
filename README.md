@@ -2,7 +2,8 @@
 The prediction of a bank term subscription for target marketing.
 
 
-!!//  This is just the summary of the project, please view the full report 'Term Deposit Prediction Report.docx' for more detail.  \\!!
+This is just the summary of the project, please view the full report 'Term Deposit Prediction Report.docx' for more detail. 
+Additionally the code for the project can be found in 'Bank_Term_Deposit_Project.ipynb'
 
 
 ## Abstract:
