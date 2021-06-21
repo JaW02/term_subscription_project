@@ -2,7 +2,7 @@
 
 
 
-This is just the summary of the project, please view the full report 'Term Deposit Prediction Report.docx' for more detail. 
+This is just the summary of the project, please view the full report 'Target market estimation for term deposit subscriptions.pdf' for more detail. 
 Additionally the code for the project can be found in 'Bank_Term_Deposit_Project.ipynb'
 
 
