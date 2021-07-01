@@ -2,7 +2,10 @@
 
 
 
-This is just the summary of the project, please view the full report 'Target Marketing Estimation for Term Deposit Subscriptions.pdf' for more detail. 
+This is just the summary of the project, 
+
+please view the full report ['Target Marketing Estimation for Term Deposit Subscriptions.pdf'](https://github.com/JaW02/term_subscription_project/blob/main/Target%20Marketing%20Estimation%20for%20Term%20Deposit%20Subscriptions.pdf)  for more detail.
+
 Additionally the code for the project can be found in 'Bank_Term_Deposit_Project.ipynb'
 
 
